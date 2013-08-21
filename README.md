@@ -1,6 +1,6 @@
 # Grizzly E-Commerce
 
-At this stage this is just an attempt to make a e-commerce site.
+At this stage this is just an attempt to make an e-commerce site.
 
 ## Upcoming Features
 
