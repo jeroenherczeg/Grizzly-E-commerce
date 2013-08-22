@@ -17,4 +17,6 @@ At this stage this is just an attempt to make an e-commerce platform.
 - Shipping Methods
 - Transactional E-mails
 - Marketing
+- Backup
+- Updating
 - SEO
