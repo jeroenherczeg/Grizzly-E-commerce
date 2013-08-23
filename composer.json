@@ -1,7 +1,7 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "Grizzly E-Commerce",
+	"description": "an attempt to make an e-commerce platform",
+	"keywords": ["ecommerce", "e-commerce"],
 	"require": {
 		"laravel/framework": "4.0.*"
 	},
