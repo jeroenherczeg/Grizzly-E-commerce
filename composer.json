@@ -3,7 +3,7 @@
 	"description": "an attempt to make an e-commerce platform",
 	"keywords": ["ecommerce", "e-commerce"],
 	"require": {
-		"laravel/framework": "4.0.*"
+		"laravel/framework": "4.0.*",
 	},
 	"autoload": {
 		"classmap": [

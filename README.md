@@ -1,4 +1,4 @@
-# Grizzly E-Commerce
+# Grizzly ・㉨・ E-Commerce
 
 At this stage this is just an attempt to make an e-commerce platform.
 
