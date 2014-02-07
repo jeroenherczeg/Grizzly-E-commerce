@@ -1,5 +1,6 @@
 # Grizzly ・㉨・ E-Commerce
 
+Socially aware e-commerce platform.
 At this stage this is just an attempt to make an e-commerce platform.
 
 ## Upcoming Features
